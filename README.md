@@ -85,7 +85,9 @@ The project will also ship an `examples/` folder with demos that run the library
 
 ## Contributing and help
 
-A `CONTRIBUTING` guide and code of conduct will follow. Until then, use [GitHub Issues](https://github.com/NAU-OSS/mapmedia/issues) for questions, design feedback, and ideas.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to report bugs, propose features, open pull requests, and what we expect from contributors. A code of conduct will follow.
+
+Use [GitHub Issues](https://github.com/NAU-OSS/mapmedia/issues) for questions, design feedback, and ideas.
 
 Helpful right now. Review of the project goals, documentation clarity, and Phase 0 presentation trade-offs. Please keep discussion constructive and public so others can learn from it.
 
