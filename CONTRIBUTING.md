@@ -85,7 +85,7 @@ We want a constructive, welcoming place to work on this project.
 - Guide conversations toward a clear next action; close threads that are no longer moving
 - Do not tolerate harassment, personal attacks, or bad-faith disruption
 
-A formal code of conduct will follow. Until then, these expectations are the working standard. If something goes wrong and you need a private channel, contact the maintainer: [Morgan Cerqueira Nicholson](https://github.com/nichmorgan).
+These expectations sit alongside the formal [Code of Conduct](CODE_OF_CONDUCT.md), which is the binding standard for the project. If something goes wrong and you need a private channel, contact the maintainer: [Morgan Cerqueira Nicholson](https://github.com/nichmorgan).
 
 ## License
 

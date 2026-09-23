@@ -85,7 +85,7 @@ The project will also ship an `examples/` folder with demos that run the library
 
 ## Contributing and help
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for how to report bugs, propose features, open pull requests, and what we expect from contributors. A code of conduct will follow.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to report bugs, propose features, open pull requests, and what we expect from contributors. Everyone in the community is expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 Use [GitHub Issues](https://github.com/NAU-OSS/mapmedia/issues) for questions, design feedback, and ideas.
 
